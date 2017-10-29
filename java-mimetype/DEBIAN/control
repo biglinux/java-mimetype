@@ -1,0 +1,11 @@
+Package: java-mimetype
+Version: 1.0.0-1big2
+Depends:
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br
+Section: admin
+Priority: optional
+Installed-Size:32
+Description: Java mimetype to open .jar with two clicks
+
+
